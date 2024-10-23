@@ -2,7 +2,6 @@
 
 import React from 'react'
 import * as Accordion from "@radix-ui/react-accordion";
-import { CircleArrowDown } from 'lucide-react';
 
 const FaQ = () => {
     const items =[

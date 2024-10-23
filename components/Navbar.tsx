@@ -13,9 +13,9 @@ const Navbar = () => {
             <Image src={logo} alt='logo'/>
             <div className="hidden md:flex md:gap-6 pl-16 text-lg font-medium">
                 <Link href="/">Feature</Link>
-                <Link href="/">Pricing</Link>
-                <Link href="/">Enterprice</Link>
-                <Link href="/">Careers</Link>
+                <Link href="#">Pricing</Link>
+                <Link href="#">Enterprice</Link>
+                <Link href="#">Careers</Link>
             </div>
         </div>
         <div className="flex gap-4 md:gap-7">
